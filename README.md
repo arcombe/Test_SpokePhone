@@ -24,6 +24,15 @@ provided in the problem description. 4 different tests were used testing:
 
 The test can be found in tagChecker.test.js
 
+## Installing
+
+Install dependencies
+
+```
+npm install
+
+```
+
 ## Running the program
 
 Execute
@@ -32,6 +41,7 @@ Execute
 node tagChecker "<B>A test string that can be changed to any</B>"
 
 ```
+
 The string can be changed to whatever you want to try.
 
 ## Running the test
